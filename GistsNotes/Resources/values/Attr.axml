@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <attr name="panel_top" format="reference|color" />
+  <attr name="panel_bot" format="reference|color" />
+
+</resources>
